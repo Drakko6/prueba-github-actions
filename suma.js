@@ -1,5 +1,5 @@
-function suma(a, b) {
-  return parseInt(a) + parseInt("b");
+function suma(x, y) {
+  return parseInt(x) + parseInt(y);
 }
 
 module.exports = suma;
